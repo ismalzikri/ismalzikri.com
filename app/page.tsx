@@ -1,7 +1,5 @@
 async function getArticles() {
-  const res = await fetch(
-    "https://my-backend-infra.mhaidarhanif.com/api/articles"
-  );
+  const res = await fetch(`${process.env.API_URL}/api/articles`);
   if (!res.ok) {
     throw new Error("Failed to fetch data");
   }
