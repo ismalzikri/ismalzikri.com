@@ -22,7 +22,7 @@ export const metadata = {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${siteConfig.url}/opengraph-image.png`],
+    images: [`${siteConfig.url}/og.png`],
     creator: "@Zikriismal",
   },
 };
