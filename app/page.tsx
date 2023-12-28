@@ -4,10 +4,11 @@ export default async function Home() {
   return (
     <main>
       <div className="flex flex-col items-center justify-center h-screen">
-        <div>
-          <h1 className="text-center">Ismal Zikri</h1>
-          <p>
-            <b>Software engineer, Frontend</b>
+        <div className="text-center">
+          <h1 className="text-center font-medium text-xl">Ismal Zikri</h1>
+          <span className="text-sm"><b>Software engineer - Frontend</b></span>
+          <p className="mt-3 px-2 lg:px-[unset] lg:w-[500px]">
+            <i>I currently work as a Software engineer who focused on Frontend Stuff, and doing some research about Machine Learning at night.</i>
           </p>
         </div>
         <div className="mt-3">
