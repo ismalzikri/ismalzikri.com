@@ -7,6 +7,6 @@ export const siteConfig: SiteConfig = {
   ogImage: "https://ismalzikri.com/og.png",
   links: {
     twitter: "https://twitter.com/ZikriIsmal",
-    github: "https://github.com/ismalzikri/ismalzikri.com",
+    github: "https://github.com/ismalzikri",
   },
 };
