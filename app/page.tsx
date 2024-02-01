@@ -8,7 +8,7 @@ export default async function Home() {
           <h1 className="text-center font-medium text-xl">Ismal Zikri</h1>
           <span className="text-sm"><b>Software engineer - Frontend</b></span>
           <p className="mt-3 px-2 lg:px-[unset] lg:w-[500px]">
-            <i>I currently work as a Software engineer who focused on Frontend Stuff, and doing some research about Machine Learning at night.</i>
+            <i>Currently work as a Software engineer who focused on Frontend stuff, and doing some research about Machine Learning at night.</i>
           </p>
         </div>
         <div className="mt-3">
